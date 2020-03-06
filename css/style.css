@@ -12,3 +12,13 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+.navi {
+	background-color: #fff !important;
+	color: #AC4E00 !important;
+}
+nav a{
+	color: #AC4E00 !important;
+}
+.orange{
+	background-color: #AC4E00 !important;
+}
